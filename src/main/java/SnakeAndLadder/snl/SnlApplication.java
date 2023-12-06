@@ -10,4 +10,5 @@ public class SnlApplication {
 		SpringApplication.run(SnlApplication.class, args);
 	}
 
+
 }
